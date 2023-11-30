@@ -1,4 +1,4 @@
 # DEMO
 First Git repo.
 <br>
-Author - Faizan
+Author - Mohd Faizan
